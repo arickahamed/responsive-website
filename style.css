@@ -12,8 +12,9 @@ body {
 
 /* ============= header part ============== */
 .header {
-    width: 100vw;
+    width: 98.5vw;
     background-color: rgb(240, 222, 188);
+    margin: 0 auto;
 }
 
 .header__logo__nav__container {
@@ -99,7 +100,7 @@ h1 {
 }
 
 .jacket__image__div {
-    width: 90%;
+    width: 80%;
     margin: 7px auto;
     border-radius: 5px;
     background-color: rgb(226, 223, 223);
